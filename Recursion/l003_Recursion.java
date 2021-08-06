@@ -134,7 +134,7 @@ public class l003_Recursion {
             int val=coins[idx] ;
             coins[idx]= -coins[idx] ;
             if (tar - coins[idx] >= 0) {
-                count += singlePermutation_subseq(coins, tar - val, 0, asf + coins[idx] + " ");
+                count += singlePermutation_subseq(coins, tar - val, 0, asf + val + " ");
             }
             coins[idx]= -coins[idx] ;
         }
