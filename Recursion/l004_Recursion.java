@@ -213,4 +213,17 @@ public class l004_Recursion {
         nqueen();
 
     }
+
+    // leetcode questions 
+    // 40
+    // 216
+    // 51
+    // 52
+    // 322
+    // 77 tle
+    // 377 tle
+
+
 }
+
+
