@@ -72,6 +72,11 @@ public int scoreOfParentheses(String s) {
     return ans ;
 }
 
+
+
+public int largestRectangleArea(int[] heights) {
+
+}
     public static void main(String[] args){
         
     }
